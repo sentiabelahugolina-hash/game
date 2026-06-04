@@ -173,7 +173,7 @@ def spawn_heal():   #memunculkan heal item
 
     side = random.choice(['left', 'right'])
 
-    y = HEIGHT // 1.2
+    y = HEIGHT // 1.3
 
     if side == 'left':
         x = -30
